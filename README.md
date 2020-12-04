@@ -13,9 +13,9 @@
 3. Swift 4.0+
 
 
-# Screen-Shot 
-###### Designed and created by me
+# Screen-Shot  
+<p> <b>Designed and created by me</b> </p>
 
 
-<p> <img src="https://user-images.githubusercontent.com/29129003/101185027-0db73880-365a-11eb-8755-38c293c1fce8.png" width="200" height="200" alt="App icon"> </p>
+<p> <img src="https://user-images.githubusercontent.com/29129003/101185027-0db73880-365a-11eb-8755-38c293c1fce8.png" width="200" height="200" title="App icon"> </p>
 <p> <b>App Icon</b> </p>
