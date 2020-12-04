@@ -1,4 +1,4 @@
-# Weather App
+# WeatherUmbrella App
  - Create a dark-mode enabled app and use vector assets.
  - Use UITextField to get user input.
  - SwiftProtocole and the Delegate Desgin Pattern.
